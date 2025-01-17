@@ -34,4 +34,4 @@ cd AI_Booking_Prediction_Frontendnpm install
 npm install
 npm start
 
-This will launch the app at http://localhost:3000.
+This app launch at http://localhost:3000.
