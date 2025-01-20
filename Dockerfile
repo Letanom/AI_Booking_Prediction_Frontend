@@ -1,6 +1,5 @@
 FROM node:18
 
-# Çalışma dizini oluştur
 WORKDIR /app
 
 COPY package*.json ./
